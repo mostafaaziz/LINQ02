@@ -258,6 +258,7 @@ namespace LINQ02
             #endregion 
             #endregion
 
+
             //Console.WriteLine(Result);
 
             //foreach (var Unit in Result)
